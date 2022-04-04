@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://ilariamasiero.github.io/.publication-detail1</loc>
+  <priority>0.2</priority>
+  <lastmod>2022-04-04</lastmod>
+</url>
+<url>
+  <loc>http://ilariamasiero.github.io/.publication-detail2</loc>
+  <priority>0.2</priority>
+  <lastmod>2022-04-04</lastmod>
+</url>
+<url>
+  <loc>http://ilariamasiero.github.io/.publication-detail3</loc>
+  <priority>0.2</priority>
+  <lastmod>2022-04-04</lastmod>
+</url>
+<url>
+  <loc>http://ilariamasiero.github.io/</loc>
+  <priority>1.0</priority>
+  <lastmod>2022-04-04</lastmod>
+</url>
+</urlset>
